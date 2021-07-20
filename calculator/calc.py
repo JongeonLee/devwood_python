@@ -4,7 +4,6 @@ operatorlist = ['=','+', '-', '*', '/']
 
 while run:
     defError = False
-
     order = input('')
     orderlist = order.split()
 
